@@ -7,7 +7,7 @@ class Products extends React.Component {
   render() {
     const products = this.props.product;
     return (
-      <div className="card col s12 m3">
+      <div className="card-product col s6 m3">
         <div className="card-image">
           <img src={products.thumbnail} alt="logo página"/>
           <a className="btn-floating halfway-fab waves-effect waves-light red"><i className="material-icons">add_shopping_cart</i></a>
