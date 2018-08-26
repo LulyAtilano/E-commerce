@@ -10,7 +10,7 @@ class MercadoLibreApp extends React.Component {
     }
           
     componentDidMount() {
-        fetch('https://api.mercadolibre.com/sites/MLA/search?q=aromaterapia&limit=8')
+        fetch('https://api.mercadolibre.com/sites/MLA/search?q=aromaterapia&limit=12')
         .then(response => {
           //console.log(results);
           return response.json();
