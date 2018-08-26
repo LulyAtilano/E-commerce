@@ -1,23 +1,14 @@
 # All Natural & Eco (Ecommerce)
 
-Este repositorio .
+Este repositorio contiene el ejercicio para hacer una página Ecommerce utilizando React.
 
 ---
 ## Descripción
 
-Golazzo es una red social diseñada para compartir opiniones, fotografías, videos, noticias referentes a: jugadas, jugadores, equipos o selecciones de fútbol. 
-.
+All Natural & Eco es una aplicación tipo ecommerce con formato SAP (single page aplication). 
 
-### Vista Desktop:
-![](/assets/images/golazzo-viewDesktop.png)
-
-### Vista Mobile:
-![](/assets/images/golazzo-viewMobile.png)
-
----
-## Se utilizó:
+#### Se utilizó:
 * React
-* Jquery
 * Materialize React (Diseño responsivo: mobile y desktop)
 * Firebase ( Auth, Database y Storage )
 * CSS3
@@ -25,6 +16,18 @@ Golazzo es una red social diseñada para compartir opiniones, fotografías, vide
 * API de Mercado Libre
 
 ---
+
+### Vista Desktop:
+![screenshot-Desktop](./src/assets/images/allNatural-viewDesktop.png)
+
+### Vista Mobile:
+![screenshot-Mobile](./src/assets/images/allNatural-viewMobile.png)
+
+---
 ## Autora
 
 **Lourdes Atilano**
+
+---
+## Desarrollado para 
+[Laboratoria](https://laboratoria.la)
