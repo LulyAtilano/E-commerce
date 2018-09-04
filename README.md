@@ -18,10 +18,10 @@ All Natural & Eco es una aplicación tipo ecommerce con formato SAP (single page
 ---
 
 ### Vista Desktop:
-![screenshot-Desktop](./src/assets/images/allNatural-viewDesktop.png)
+![screenshot-Desktop](https://user-images.githubusercontent.com/37431988/45056388-5dac8c80-b058-11e8-8b08-633d64f51b84.png)
 
 ### Vista Mobile:
-![screenshot-Mobile](./src/assets/images/allNatural-viewMobile.png)
+![screenshot-Mobile](https://user-images.githubusercontent.com/37431988/45056429-79179780-b058-11e8-81b9-3c22d3ca6dc0.png)
 
 ---
 ## Autora
