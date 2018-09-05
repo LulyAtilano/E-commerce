@@ -1,0 +1,104 @@
+/* 
+FONT FAMILIES:
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Sunflower', sans-serif;
+*/
+
+body{
+    width: 100;
+}
+
+.col,
+.row {
+    margin: 0;
+}
+
+/* HEADER */
+.nav-extended-header {
+    font-family: 'Oxygen', sans-serif;
+    padding: 1em, .5em;
+    width: 100%;
+    position: absolute;
+}
+
+.valign-wrapper {
+    box-sizing: border-box;
+    display: inline-flex;
+    height: 60px;
+}
+
+i.material-icons {
+    margin: 0 15px;
+}
+
+div.valign-wrapper:last-child div.row {
+    border-width: none;
+    font-family: 'Acme', sans-serif;
+    padding: 0 auto;
+    width: 100%;
+}
+
+.button-header {
+    margin: 0 1em;
+}
+
+/* MAIN */
+main#root {
+    height: 15em;
+    width: 100%;
+}
+
+/* CAROUSEL */
+
+div#carousel {
+    height: 300px;
+    width: 100%;
+    padding: auto;
+    margin-bottom: 1em;
+}
+
+div#carousel div a img {
+    max-height: 400px;
+    height: 300px;
+}
+
+/* STYLE - PRODUCTS */
+div.card-product.col.s6.m3 {
+    max-height: 17.5em;
+    height: 240px;
+}
+
+div.card-product a.btn-floating.halfway-fab {
+    float: right;
+    position: relative;
+}
+
+div.card-product a > i {
+    margin: 0;
+}
+
+div.card-content span.card-title {
+    font-family: 'Sunflower', sans-serif;
+    font-size: 18px;
+}
+
+div.card-content > p {
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+}
+
+/* PARALLAX */
+
+/* P-HEADER */
+div#parallax-header, div#parallax-oils, div.parallax-container {
+    max-height: 300px;
+}
+
+/* FOOTER */
+.page-footer {
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+    padding: 20px 0;
+}
